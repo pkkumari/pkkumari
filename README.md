@@ -4,6 +4,7 @@
 San Francisco, CA | [Website](https://pooja-kumari-website.lovable.app) | [GitHub](https://github.com/pkkumari) | [Email](mailto:pk.20kumari@gmail.com)
 
 ---
+
 ##⚡ Quick Stats
 
 🚀 15+ Projects: GenAI apps, cold-start recommenders, and real-time data orchestration
