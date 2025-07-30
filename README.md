@@ -21,7 +21,7 @@ San Francisco, CA | [Website](https://pooja-kumari-website.lovable.app) | [GitHu
 
 I'm a data-driven problem solver with a passion for designing AI-powered business solutions. With dual master’s degrees in Business Analytics and Management, and experience in Oracle HCM implementations, I bridge strategy, analytics, and engineering to deliver measurable impact. I specialize in building intelligent systems that are scalable, interpretable, and aligned with business outcomes.
 
-* ✨ 3\*\*+ years\*\* of cross-functional experience across analytics, product strategy, and enterprise systems
+* ✨ 3+ years of cross-functional experience across analytics, product strategy, and enterprise systems
 * ⚖️ Former **Senior Associate at Cognizant**, led 3 Oracle Cloud HCM payroll projects across US & Middle East
 * 🤠 **Specialist in LLMs**, GenAI, explainable AI, MLOps, NLP, and customer behavior modeling
 * ☁️ Experience with **OCI, AWS, GCP**, real-time pipelines, BigQuery, and Airflow
@@ -54,7 +54,7 @@ Focus: Biostatistics, Genetics, Environmental Science
 * 🇸🇦 **Gaming Co. (Middle East)** — Delivered EOSB-compliant payroll rollout, improved UAT success by 35% with robust RTM and training
 * 🌐 **McDonald’s Corporation** — Designed global payroll architecture, integrated third-party systems, created onboarding and UAT playbooks
 
-### De Fonte Law (Capstone Project) | Project Analyst Lead
+### De Fonte Law | Project Analyst
 
 **Aug 2024 – Jun 2025 | Remote**
 
